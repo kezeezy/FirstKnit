@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Kevin Lindo"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer     I went to 4 high schools, Knight High School, Eastside Highschool, Palmdale High School, and R Rex Parris. I graduate this friday from R Rex Parris. I like english more when we deal with poetry, but if it's anything else then I prefer math. The subject I did best in was PE. 
   
 
      
@@ -25,14 +25,14 @@ Where did you attend High School, and did you graduate? Compare english class to
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
-### my answer   
+### my answer   I have a windows computer at home. I would say im a 5 out of 10 on my knowledge on computers. My internet connection at home is pretty good and I can rely on it. 
   
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
-### my answer     
+### my answer    I don't really like my name too much but I honestly don't really mind if you guys call me by it. But if you want you can call me by my nickname which is Zee.  
   
    
  
@@ -43,7 +43,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
-### my answer     
+### my answer  I have lots of interests that don't really guarentee that I can make a living out of so just to be safe I will try to pursue a degree in psycology. I don't really know yet if I wanna settle for associate's, bachelor's or a masters degree but one of those.    
   
    
  
@@ -54,7 +54,7 @@ What do you want to achieve in life?  What college subject do you think would be
 ## Past adventures?  
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
-### my answer     
+### my answer I have been to Nicargua because I was visiting my Father, but I still wanna visit other countries like Japan. I have never been to the military but if I had to go I would choose the U.S. Army because I had two cousins in that branch.     
   
    
   
@@ -67,7 +67,7 @@ Did you take Math 115 or Math 116 ?  Did you know Math 115 only satisfies a gene
 What grade do you need to attain in stats to not upset your future plans, What is your plan?  
  
 
-### my answer     
+### my answer I am taking Math 115 I believe. I did not know that. I don't have a set grade I want, just as long as I pass. My plan is to try to pursue all of my main interests but if they do not work out, I will pursue a career in psycology.       
   
    
  
